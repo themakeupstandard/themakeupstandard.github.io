@@ -1,1 +1,6 @@
-# themakeupstandard.github.io
+# The Makeup Standard
+The Makeup Standard is a result of the historical lack of clear science backed sanitation guidelines for the makeup artists in the beauty industry. It is a collaboration between makeup artist professionals and members of the National Scientist Volunteer Database (NSVD) who donated their time and expertise towards creating science led not-for-profit publications.
+
+Our mission is to create a more informed and safer beauty community. There are many sources of information available to artists today, including damaging misinformation. Unfortunately, the community has relied on non-authoritative information sources which may result in a false sense of security.
+
+The Makeup Artist Sanitation Standard was created out of the desire to elevate makeup artists best practices and gives clarity and confidence through its instructional information. It is designed to be a resource not only for makeup artists, but also for production teams, models, agents, art directors, studios, retail environments, salons and more.
